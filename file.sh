@@ -1,5 +1,6 @@
 #!/bin/bash
 
+uptime
 free -m 
 date
 
